@@ -1,5 +1,5 @@
 <img src='https://camo.githubusercontent.com/2c4baaf686ef03dbdfcccadfb28afbf7fbced70e03788deca49bdd6ecbf1483c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230776974682d52656163745f4e61746976652d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374' />
-#
+
   <h1> Tech Stack </h1>
   
   <h3> Client </h3>
@@ -10,7 +10,7 @@
   
   <h3> Database </h3>
   <a ahref='https://www.sanity.io/'>Sanity</a>
-#
+
 
 # 📷 Screenshots : 
 <img width=1000 height=500 src='https://scontent.faae2-1.fna.fbcdn.net/v/t39.30808-6/308464954_1798116483859351_5177966828870857472_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=RYfwcaAoIqgAX-QI2G0&_nc_oc=AQlKNycunmSTlm9QOblOR_0fVfXLkAqFiL-tYhF2q4e_1jaRbxmCZI37FlOxGPJ2LMw&_nc_ht=scontent.faae2-1.fna&oh=00_AT-AEwF1flCLk2Mg1afNhK-lD-lKM_FUXGb7uRvHRcDXzw&oe=6332AF0E' />
