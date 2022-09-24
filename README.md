@@ -3,12 +3,10 @@
   <h1> Tech Stack </h1>
   
   <h3> Client </h3>
-  <div>
-  <a href='https://www.javascript.com/'>JavaScript</a>
-  <a href='https://expo.io/'>Expo</a>
-  <a href='https://tailwindcss.com/'>Tailwind Css</a>
-  <a href='https://reactnative.dev/'>React Native</a>
-  </div>
+  <a href='https://www.javascript.com/'>JavaScript</a><br />
+  <a href='https://expo.io/'>Expo</a><br />
+  <a href='https://tailwindcss.com/'>Tailwind Css</a><br />
+  <a href='https://reactnative.dev/'>React Native</a><br />
   
   <h3> Database </h3>
   <a ahref='https://www.sanity.io/'>Sanity</a>
